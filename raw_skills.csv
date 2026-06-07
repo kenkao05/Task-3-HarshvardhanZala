@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,python machine_learning statistics sql data_analysis pandas numpy scikit_learn visualization jupyter
+Machine Learning Engineer,python machine_learning deep_learning tensorflow pytorch model_deployment mlops numpy scikit_learn
+Data Analyst,sql excel data_analysis visualization tableau power_bi statistics python reporting
+Backend Developer,python java node_js sql rest_api databases docker git postgresql flask
+Frontend Developer,javascript html css react vue angular typescript git ui_ux responsive_design
+Full Stack Developer,javascript html css react node_js python sql git docker rest_api
+DevOps Engineer,docker kubernetes aws linux ci_cd git terraform ansible cloud_infrastructure shell_scripting
+Cloud Architect,aws azure gcp cloud_infrastructure terraform kubernetes networking security microservices
+Cybersecurity Analyst,networking security linux penetration_testing vulnerability_assessment firewalls siem python cryptography
+Mobile Developer,android ios swift kotlin react_native flutter java javascript mobile_ui git
+AI Engineer,python deep_learning nlp computer_vision tensorflow pytorch transformers huggingface model_deployment
+Data Engineer,python sql spark hadoop etl data_pipelines kafka airflow cloud aws
+Software Engineer,python java c++ algorithms data_structures git system_design testing object_oriented_programming
+Network Engineer,networking cisco linux tcp_ip routing switching firewalls network_security monitoring
+Database Administrator,sql postgresql mysql oracle database_design performance_tuning backup_recovery pl_sql
+UI/UX Designer,figma sketch wireframing user_research prototyping html css ui_design accessibility
+Product Manager,agile roadmapping stakeholder_management data_analysis user_research jira communication strategy
+Blockchain Developer,solidity ethereum smart_contracts web3 cryptography javascript python distributed_systems
+Robotics Engineer,python c++ ros computer_vision sensors embedded_systems control_systems matlab
+NLP Engineer,python nlp transformers huggingface deep_learning pytorch text_processing linguistics machine_learning
